@@ -326,8 +326,7 @@ The proposed Mini PC architecture can be used for:
 # References
 
 - Allwinner H3 Datasheet
-- linux-sunxi Documentation
-- U-Boot Documentation
+- U-Boot Documentation -  [U-Boot main](https://docs.u-boot.org/en/latest/)
 - Alliance Memory DDR3 Datasheet
 - Winbond SPI Flash Datasheet
 - RTL8723DS Documentation
