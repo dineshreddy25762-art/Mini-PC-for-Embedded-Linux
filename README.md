@@ -267,7 +267,7 @@ Allwinner-H3-Mini-PC/
 ├── LICENSE
 │
 ├── Report/
-│   ├── final_report.pdf
+│   └── final_report.pdf
 │
 ├── Figures/
 │   ├── top.png
@@ -344,7 +344,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-# Author
 
 # Contact
 
