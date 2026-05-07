@@ -285,7 +285,7 @@ Allwinner-H3-Mini-PC/
 │
 ├── Schematic/
 │   ├── KiCad_Project_Files
-│   └── Updated_Schematic.pdf
+│   └── Schematic.pdf
 │
 ├── Documents/
 │   ├── H3_Datasheet.pdf
