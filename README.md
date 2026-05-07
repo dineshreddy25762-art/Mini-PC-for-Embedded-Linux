@@ -284,8 +284,8 @@ Allwinner-H3-Mini-PC/
 │   └── pm.png
 │
 |
-├── My Library/
-│   └── Snapeda.pretty
+├── Footprints/
+│   └── Snapeda
 |
 ├── Schematic/
 │   ├── KiCad_Project_Files
