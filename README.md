@@ -283,6 +283,10 @@ Allwinner-H3-Mini-PC/
 │   ├── BTE.png
 │   └── pm.png
 │
+|
+├── My Library/
+│   └── Snapeda.pretty
+|
 ├── Schematic/
 │   ├── KiCad_Project_Files
 │   └── Schematic.pdf
