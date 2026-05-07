@@ -351,7 +351,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Gudisa Dinesh Reddy - [Gudisa.Reddy@iiitb.ac.in](mailto:Gudisa.Reddy@iiitb.ac.in)
 
-GitHub Profile: [Your GitHub Profile](https://github.com/dineshreddy25762-art)
+GitHub Profile: [GitHub Profile](https://github.com/dineshreddy25762-art)
 
 Project Link: [Allwinner-H3-Mini-PC](https://github.com/dineshreddy25762-art/Mini-PC-for-Embedded-Linux)
 ---
