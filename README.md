@@ -265,10 +265,8 @@ Allwinner-H3-Mini-PC/
 │
 ├── README.md
 ├── LICENSE
-├── .gitignore
 │
 ├── Report/
-│   ├── main.tex
 │   ├── final_report.pdf
 │
 ├── Figures/
@@ -294,22 +292,20 @@ Allwinner-H3-Mini-PC/
 │   ├── DDR3_Datasheet.pdf
 │   ├── SPIFlash_Datasheet.pdf
 │   └── RTL8723DS_Datasheet.pdf
-│
-└── Presentation/
-    └── project_presentation.pptx
+
 ```
 
 ---
 
+
+
+
+
+
 # Tools Used
 
-The electronic design and documentation were developed using:
+The electronic design and development were done using KiCad, an open-source EDA software. The version used for this project is KiCad 9.0.7.
 
-- KiCad
-- LaTeX / Overleaf
-- GitHub
-- Embedded Linux Documentation
-- Allwinner H3 Documentation
 
 ---
 
@@ -354,6 +350,6 @@ International Institute of Information Technology Bangalore
 
 # Acknowledgements
 
-I would like to sincerely thank the faculty and resources provided by the International Institute of Information Technology Bangalore for supporting this project.
+I would like to express my sincere gratitude to my college, International Institute of Information Technology (IIIT-B), for providing the resources and support to complete this project.
 
-Special thanks to the Embedded System Packaging (ESP) course for providing architectural understanding of processor-based embedded hardware systems.
+I am especially grateful to my professor, Dr. Kurian Polachan, for their invaluable guidance, encouragement, and expertise throughout the development of this work.
