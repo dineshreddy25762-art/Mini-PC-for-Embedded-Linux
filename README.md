@@ -347,10 +347,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 # Author
 
-**Gudisa Dinesh Reddy**  
-MT2025509  
-International Institute of Information Technology Bangalore
+# Contact
 
+Gudisa Dinesh Reddy - [Gudisa.Reddy@iiitb.ac.in](mailto:Gudisa.Reddy@iiitb.ac.in)
+
+GitHub Profile: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+
+Project Link: [Allwinner-H3-Mini-PC](https://github.com/YOUR_USERNAME/Allwinner-H3-Mini-PC)
 ---
 
 # Acknowledgements
