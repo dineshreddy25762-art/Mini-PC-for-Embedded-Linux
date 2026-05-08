@@ -30,7 +30,7 @@ The project includes:
 # System Block Diagram
 
 <p align="center">
-  <img src="Figures/block_diagram_allwinner_h3.png" width="900"/>
+  <img src="Figures/blockdiagram.png" width="900"/>
 </p>
 
 The block diagram shows the complete architecture of the Allwinner H3 based Mini PC. The Allwinner H3 application processor acts as the central processing unit and connects with all major hardware blocks. The DDR3 RAM provides 1 GB runtime memory for U-Boot, Linux kernel, device tree, and applications. SPI Flash and Micro SD card are used as non-volatile boot storage options. USB-C OTG supports development, recovery, and data communication, while USB Host supports external peripherals. HDMI provides display output, and the RTL8723DS module provides Wi-Fi and Bluetooth connectivity. The power management block generates the required voltage rails such as 5 V, 3.3 V, 1.8 V, 1.5 V, and 1.2 V.
@@ -314,6 +314,7 @@ Allwinner-H3-Mini-PC/
 │   ├── host.png
 │   ├── hdmi.png
 │   ├── BTE.png
+|   ├── blockdiagram.png
 │   └── pm.png
 │
 |
